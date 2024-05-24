@@ -1,0 +1,13 @@
+{
+  "name": "dapphomes-events",
+  "version": "1.0.0",
+  "description": "dapphomes events",
+  "main": "index.js",
+  "author": "DappHomes",
+  "license": "GPLv3",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "web3": "^4.8.0"
+  },
+  "type": "module"
+}
