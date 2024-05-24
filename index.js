@@ -36,7 +36,7 @@ class DappHomesEvents {
                 fromBlock: self.options.initialBlock,
                 toBlock: self.options.toBlock,
                 filter: {
-                    to: user
+                    owner: user
                 }
             }
         )
